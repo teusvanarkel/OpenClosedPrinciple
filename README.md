@@ -1,9 +1,7 @@
 # OpenClosedPrinciple
 ## Easy to understand OpenClosedPrinciple example
 
-The example is about a invoicemanager which creates the invoices. 
-Next to that there are orders, customers and customerTypes. 
-Based on customer type the discount for an order is managed.
+The example is about customers and based on the customerType a discount is granted when generating the invoice.
 
 So the openclosedprinciple is preventing code like this:
 ```
